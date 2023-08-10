@@ -8,8 +8,11 @@
 <hr>
 
 I am a Full Stack Developer from Salt Lake, Utah
+
 • I'm currently working on ArtistLinq.com
+
 • I'm currently learning how to deploy web applications
+
 • I'm looking to collaborate on indie games
 
 <h2><i>Stay awesome!</i></h2>
