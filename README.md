@@ -8,7 +8,6 @@
 <hr>
 
 <p>
-    • Python Developer who loves to code, listen to music, and trying new recipes
 </p>
 
 <h2><i>Stay awesome!</i></h2>
