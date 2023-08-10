@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3>I am a Full Stack Developer from Salt Lake, Utah</h3>
+<h3>I am a Full Stack Developer from Utah</h3>
 
   🔧  I'm currently working on ArtistLinq.com
   
